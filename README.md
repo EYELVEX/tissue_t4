@@ -1,4 +1,4 @@
-# tissue_t4
+# 根据T4椎体上下水平计算皮下脂肪、纵隔脂肪及骨骼肌体积
 确保你已经安装好totalsegmentator相关功能，具体请参阅：
 https://github.com/wasserth/TotalSegmentator
 ## 微信公众号@医影一心，全平台搜索，或者联系vx：yxy205052
