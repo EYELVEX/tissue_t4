@@ -6,3 +6,4 @@ https://github.com/wasserth/TotalSegmentator；
 #### 2、点我自动批量分割T4.bat，分割结果在labelsTr_T4文件夹下面，结果为001.nii.gz、002.nii.gz、003.nii.gz等多个mask文件；
 #### 3、点我自动批量分割组织.bat，分割结果在labelsTr_tissue文件夹下面，结果为001.nii.gz、002.nii.gz、003.nii.gz等多个mask文件；
 #### 点击提取，提取结果参考如下：
+![2](https://github.com/user-attachments/assets/a2854a27-6979-44e1-9d55-0ddba6dcdcfd)
